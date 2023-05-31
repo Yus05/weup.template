@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #333;
+    margin: 0;
+}
+
+.header__image,
+.container__image{
+    width: 100%;
+}
